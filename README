@@ -1,0 +1,2 @@
+Simple example of how to do a chain of responsibility in dart.
+Reference: http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
